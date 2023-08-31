@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+div {
+    font-size: 40px;
+    color: rgb(194, 229, 21);
+}
